@@ -1,0 +1,7 @@
+pytesseract>=0.2.6
+tesserocr>=2.3.1
+numpy>=1.15.2
+tzlocal>=1.5.1
+pandas>=0.23.4
+Pillow>=6.0.0
+scikit_learn>=0.21.2

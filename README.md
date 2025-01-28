@@ -14,7 +14,7 @@ The general retraining process goes:
 
 Steps 3-5 have been fully automated, with full credit going to Kamil Ciemniewski:
 
-https://www.endpoint.com/blog/2018/07/09/training-tesseract-models-from-scratch
+https://web.archive.org/web/20210506222222/https://www.endpoint.com/blog/2018/07/09/training-tesseract-models-from-scratch
 
 Steps 1 and 2, however, are a partially manual process, though the script does make a best effort to automate as much of the manual work as possible.
 

@@ -1,14 +1,10 @@
 cff-version: 1.2.0
-title: "Tesseract Retraining Pipeline"
-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Shea"
     given-names: "Daniel"
     orcid: "https://orcid.org/0009-0008-4488-5169"
-preferred-citation:
-  type: software
-  title: "Tesseract Retraining Pipeline"
-  url: "https://github.com/dshea89/tesseract-retraining-pipeline"
-  version: 1.0.0
-  date-released: 2019-06-06
+title: "Tesseract Retraining Pipeline"
+version: 1.0.0
+date-released: 2019-06-06
+url: "https://github.com/dshea89/tesseract-retraining-pipeline"

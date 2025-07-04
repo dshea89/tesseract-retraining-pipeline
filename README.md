@@ -170,6 +170,21 @@ As this is the initial launch of the Tesseract retraining pipeline, there have n
 
 Currently, you will have to manually reorient the page prior to loading it in the line-box file generator. There is a plan to do this automatically in the future, however.
 
+* **What license does this project use?**
+
+This codebase is released under the permissive **[MIT License](LICENSE)**. You may use, modify, and distribute the software—including for commercial purposes, provided you retain the copyright and license notice in any copy of the source or substantial portions of it.
+
+* **How should I cite this software?**
+
+If this repository contributes to your research or product, please cite the specific release you used:
+
+1. **Preferred method** - Use the *"Cite this repository"* button on the GitHub sidebar (powered by the `CITATION.cff` file). It provides BibTeX, APA, and other formats automatically.
+2. **Manual citation** - Include the following (replace version and date if you use a different release):
+
+> *Shea, Daniel* <https://orcid.org/0009-0008-4488-5169>. **Tesseract Retraining Pipeline** (Version 1.0.0) \[Software\]. GitHub. https://github.com/dshea89/tesseract-retraining-pipeline (Released 2019‑06‑06).
+
+(Optional) If you archive a release on Zenodo or another DOI‑minting service, please cite the DOI in addition to, or instead of, the GitHub URL.
+
 ## To Do
 
 * Fully integrate support for the tesserocr library. Currently, support for tesserocr is limited, and as such, `USE_TESSEROCR` is set to `False` by default.
